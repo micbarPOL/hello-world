@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class CalculationsMain {
     public static void main(String[] args) {
         double x = 8;
         double y = 12;
